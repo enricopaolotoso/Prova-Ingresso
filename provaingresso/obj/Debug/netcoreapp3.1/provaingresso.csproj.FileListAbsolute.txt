@@ -1,0 +1,13 @@
+/Users/enricotoso/Projects/provaingresso/provaingresso/bin/Debug/netcoreapp3.1/provaingresso.deps.json
+/Users/enricotoso/Projects/provaingresso/provaingresso/bin/Debug/netcoreapp3.1/provaingresso.runtimeconfig.json
+/Users/enricotoso/Projects/provaingresso/provaingresso/bin/Debug/netcoreapp3.1/provaingresso.runtimeconfig.dev.json
+/Users/enricotoso/Projects/provaingresso/provaingresso/bin/Debug/netcoreapp3.1/provaingresso.dll
+/Users/enricotoso/Projects/provaingresso/provaingresso/bin/Debug/netcoreapp3.1/provaingresso.pdb
+/Users/enricotoso/Projects/provaingresso/provaingresso/obj/Debug/netcoreapp3.1/provaingresso.csproj.AssemblyReference.cache
+/Users/enricotoso/Projects/provaingresso/provaingresso/obj/Debug/netcoreapp3.1/provaingresso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enricotoso/Projects/provaingresso/provaingresso/obj/Debug/netcoreapp3.1/provaingresso.AssemblyInfoInputs.cache
+/Users/enricotoso/Projects/provaingresso/provaingresso/obj/Debug/netcoreapp3.1/provaingresso.AssemblyInfo.cs
+/Users/enricotoso/Projects/provaingresso/provaingresso/obj/Debug/netcoreapp3.1/provaingresso.csproj.CoreCompileInputs.cache
+/Users/enricotoso/Projects/provaingresso/provaingresso/obj/Debug/netcoreapp3.1/provaingresso.dll
+/Users/enricotoso/Projects/provaingresso/provaingresso/obj/Debug/netcoreapp3.1/provaingresso.pdb
+/Users/enricotoso/Projects/provaingresso/provaingresso/obj/Debug/netcoreapp3.1/provaingresso.genruntimeconfig.cache
