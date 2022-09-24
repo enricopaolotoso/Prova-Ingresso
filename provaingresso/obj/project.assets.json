@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/enricotoso/Projects/provaingresso/provaingresso/provaingresso.csproj",
+      "projectUniqueName": "/Users/enricotoso/Desktop/Prova-Ingresso/provaingresso/provaingresso.csproj",
       "projectName": "provaingresso",
-      "projectPath": "/Users/enricotoso/Projects/provaingresso/provaingresso/provaingresso.csproj",
+      "projectPath": "/Users/enricotoso/Desktop/Prova-Ingresso/provaingresso/provaingresso.csproj",
       "packagesPath": "/Users/enricotoso/.nuget/packages/",
-      "outputPath": "/Users/enricotoso/Projects/provaingresso/provaingresso/obj/",
+      "outputPath": "/Users/enricotoso/Desktop/Prova-Ingresso/provaingresso/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/enricotoso/.config/NuGet/NuGet.Config"

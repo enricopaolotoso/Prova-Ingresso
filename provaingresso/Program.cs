@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ProvaIngresso
+namespace ProvaIngressoToso
 {
     enum tipoCombustibile { gas, luce }
 
